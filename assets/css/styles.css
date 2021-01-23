@@ -702,3 +702,8 @@ a.dotted-link:hover {
   font-weight: 500;
   font-size: 13px;
 }
+
+.custom-title {
+  font-weight: 500;
+  font-size: 1.5rem;
+}
